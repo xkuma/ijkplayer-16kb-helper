@@ -1,4 +1,4 @@
-name: build-16kb-lite-hevc
+name: build-16kb-default
 
 on:
   workflow_dispatch:
